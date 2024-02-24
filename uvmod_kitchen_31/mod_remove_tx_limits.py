@@ -1,6 +1,6 @@
 # change below sets to new ones, values are in Hz
-tx_low_limit  =    18_000_000
-tx_high_limit = 1_300_000_000
+tx_low_limit  =    06_000_000
+tx_high_limit = 1_400_000_000
 
 
 
